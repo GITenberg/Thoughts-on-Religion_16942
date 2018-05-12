@@ -1,0 +1,40 @@
+_repo: Thoughts-on-Religion_16942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Romanes, George John
+    aliases:
+    - Romanes, G.-J.
+    - Romanes, George J.
+    - Romanes, G. J.
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '7037'
+    url: http://www.gutenberg.org/2009/agents/7037
+    wikipedia: http://en.wikipedia.org/wiki/George_Romanes
+  editor:
+    agent_name: Gore, Charles
+    alias: Gore, C. (Charles)
+    birthdate: 1853
+    deathdate: 1932
+    gutenberg_agent_id: '7038'
+    url: http://www.gutenberg.org/2009/agents/7038
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Gore
+description: pt. I. The influence of science upon religion.--pt. II. Notes for a work
+  on a candid examination of religion.
+gutenberg_issued: '2005-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Religion and science'
+title: Thoughts on Religion
+url: http://www.gutenberg.org/ebooks/16942
